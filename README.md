@@ -24,3 +24,6 @@
 ## Covid-19 Symptom Detection:
 ### The Objective of Covid-19 Symptom Detection Section, is to ensure, at what extent are we away from dangerous Corona Virus, this section takes Parameters included in dataset, and results what percentage of Low, Medium and High amount of risk the user is facing in a probablity percentage format. In any instance the High-risk percentage is more, it is suggested to visit the doctor as early as possible.
 ## Thank you.
+
+## Working Application:
+![2020-08-08-21-01-21_nHm6KRKX compressed-min](https://user-images.githubusercontent.com/63406916/89714370-a0510f00-d9bb-11ea-9e75-19a3319b023d.gif)
